@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\StudentManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE95CBA-9EA4-438B-BAEB-CAF2BFBFB862}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\user\\source\\repos\\studentmanagementsystem\\studentmanagementsystem\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EE95CBA-9EA4-438B-BAEB-CAF2BFBFB862}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE95CBA-9EA4-438B-BAEB-CAF2BFBFB862}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\user\\source\\repos\\studentmanagementsystem\\studentmanagementsystem\\forms\\feesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EE95CBA-9EA4-438B-BAEB-CAF2BFBFB862}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\forms\\feesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE95CBA-9EA4-438B-BAEB-CAF2BFBFB862}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\user\\source\\repos\\studentmanagementsystem\\studentmanagementsystem\\forms\\marksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EE95CBA-9EA4-438B-BAEB-CAF2BFBFB862}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\forms\\marksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE95CBA-9EA4-438B-BAEB-CAF2BFBFB862}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\user\\source\\repos\\studentmanagementsystem\\studentmanagementsystem\\forms\\enrollmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EE95CBA-9EA4-438B-BAEB-CAF2BFBFB862}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\forms\\enrollmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE95CBA-9EA4-438B-BAEB-CAF2BFBFB862}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\user\\source\\repos\\studentmanagementsystem\\studentmanagementsystem\\forms\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EE95CBA-9EA4-438B-BAEB-CAF2BFBFB862}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\forms\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE95CBA-9EA4-438B-BAEB-CAF2BFBFB862}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\user\\source\\repos\\studentmanagementsystem\\studentmanagementsystem\\forms\\attendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EE95CBA-9EA4-438B-BAEB-CAF2BFBFB862}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\forms\\attendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE95CBA-9EA4-438B-BAEB-CAF2BFBFB862}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\user\\source\\repos\\studentmanagementsystem\\studentmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE95CBA-9EA4-438B-BAEB-CAF2BFBFB862}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE95CBA-9EA4-438B-BAEB-CAF2BFBFB862}|StudentManagementSystem\\StudentManagementSystem.csproj|c:\\users\\user\\source\\repos\\studentmanagementsystem\\studentmanagementsystem\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE95CBA-9EA4-438B-BAEB-CAF2BFBFB862}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FeesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Forms\\FeesForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Forms\\FeesForm.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Forms\\FeesForm.cs [Design]",
+              "RelativeToolTip": "StudentManagementSystem\\Forms\\FeesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T05:19:55.45Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Forms\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Forms\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Forms\\DashboardForm.cs [Design]",
+              "RelativeToolTip": "StudentManagementSystem\\Forms\\DashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T14:29:15.566Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MarksForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Forms\\MarksForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Forms\\MarksForm.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Forms\\MarksForm.cs [Design]",
+              "RelativeToolTip": "StudentManagementSystem\\Forms\\MarksForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T05:19:57.784Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnrollmentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Forms\\EnrollmentForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Forms\\EnrollmentForm.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Forms\\EnrollmentForm.cs [Design]",
+              "RelativeToolTip": "StudentManagementSystem\\Forms\\EnrollmentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T05:19:52.376Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Forms\\CourseForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Forms\\CourseForm.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Forms\\CourseForm.cs [Design]",
+              "RelativeToolTip": "StudentManagementSystem\\Forms\\CourseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T05:19:47.61Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AttendanceForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Forms\\AttendanceForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Forms\\AttendanceForm.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Forms\\AttendanceForm.cs [Design]",
+              "RelativeToolTip": "StudentManagementSystem\\Forms\\AttendanceForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T05:19:45.197Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Forms\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Forms\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Forms\\DashboardForm.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Forms\\DashboardForm.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAiwEcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T14:59:45.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\StudentManagementSystem\\StudentManagementSystem\\Program.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T11:13:29.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

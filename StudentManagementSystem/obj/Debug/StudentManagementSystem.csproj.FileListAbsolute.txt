@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+C:\Users\USER\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+C:\Users\USER\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+C:\Users\USER\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.StudentForm.resources
+C:\Users\USER\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Properties.Resources.resources
+C:\Users\USER\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+C:\Users\USER\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
+C:\Users\USER\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Forms.AttendanceForm.resources
+C:\Users\USER\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Forms.CourseForm.resources
+C:\Users\USER\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Forms.DashboardForm.resources
+C:\Users\USER\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Forms.EnrollmentForm.resources
+C:\Users\USER\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Forms.FeesForm.resources
+C:\Users\USER\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Forms.MarksForm.resources
+C:\Users\USER\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Forms.SubjectForm.resources
